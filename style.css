@@ -1,12 +1,25 @@
+body{
+    font: 20px Arial, sans-serif;
+}
 .navbar{
     background-color: #298A08;
 }
 
 .quem-somos{
     background-color: darkcyan;
+    color: white;
+}
+
+.parceiros{
+    background-color: #58FAF4;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
 }
 
 .margin{
-    padding-top: 50px;
+    padding-top: 10px;
     padding-bottom: 50px;
 }
